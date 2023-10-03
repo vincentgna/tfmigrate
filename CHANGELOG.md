@@ -2,6 +2,19 @@
 
 ## master (Unreleased)
 
+## [1.1.0](https://github.com/vincentgna/tfmigrate/compare/v1.0.0...v1.1.0) (2023-10-03)
+
+
+### Features
+
+* Add support for local terraform states ([#3](https://github.com/vincentgna/tfmigrate/issues/3)) ([8af3509](https://github.com/vincentgna/tfmigrate/commit/8af350948d53ac77216b246f1cd94af6697b76fc))
+
+
+### Misc
+
+* bump the gomod group with 5 updates ([#5](https://github.com/vincentgna/tfmigrate/issues/5)) ([4505ff7](https://github.com/vincentgna/tfmigrate/commit/4505ff79f2813270e2e6a43ad475791af641e0dd))
+* bump the terraform group with 2 updates ([#4](https://github.com/vincentgna/tfmigrate/issues/4)) ([009e2cf](https://github.com/vincentgna/tfmigrate/commit/009e2cf5396ea0880d288844fd20c962af45a5c3))
+
 ## 1.0.0 (2023-10-03)
 
 
