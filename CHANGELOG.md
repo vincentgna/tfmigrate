@@ -2,6 +2,30 @@
 
 ## master (Unreleased)
 
+## 1.0.0 (2023-10-03)
+
+
+### Features
+
+* add a simple GCS storage impl ([ba92a6c](https://github.com/vincentgna/tfmigrate/commit/ba92a6c6d222b4b56893d6d2ed4037c650bda42f))
+* Support for GCS history backend ([b9da17a](https://github.com/vincentgna/tfmigrate/commit/b9da17ac8e63efe7df8845ce67a1ff076c824570))
+
+
+### Misc
+
+* bootstrap releases for path: . ([#1](https://github.com/vincentgna/tfmigrate/issues/1)) ([ab61d2c](https://github.com/vincentgna/tfmigrate/commit/ab61d2c121ffb088196669b42609a842b70f657f))
+* prepare fork releases ([917c224](https://github.com/vincentgna/tfmigrate/commit/917c224df0d54a01e747fd9d621ccad6a6bc7375))
+
+
+### BugFixes
+
+* clean up prior solution attempt ([55953bc](https://github.com/vincentgna/tfmigrate/commit/55953bc160377f66a0946170c4966b74cf310acf))
+* compilation errors in test files ([5053630](https://github.com/vincentgna/tfmigrate/commit/505363062aa82a7e5a2581b8807310e6c8aa1896))
+* small typos through scripts folder ([0743349](https://github.com/vincentgna/tfmigrate/commit/07433499cc0778d260fb30ece7d089532303c424))
+* suggested changes and linter fix ([0f5bb7f](https://github.com/vincentgna/tfmigrate/commit/0f5bb7ff5955b257eef0a37347dd19496c57f549))
+* unit tests for tfmigrate ([83fa280](https://github.com/vincentgna/tfmigrate/commit/83fa280ee5ac6d072b9e46115c10bce7b8dd7599))
+* unit tests now passing ([8067372](https://github.com/vincentgna/tfmigrate/commit/8067372f50360f6c36fd345add11b822a0859252))
+
 ## 0.3.17 (2023/10/02)
 
 NEW FEATURES:
