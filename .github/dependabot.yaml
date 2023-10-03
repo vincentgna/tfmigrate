@@ -1,0 +1,32 @@
+version: 2
+updates:
+  - package-ecosystem: gomod
+    directory: "/"
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 10
+    labels:
+      - bot/merge
+    commit-message:
+      prefix: "chore: "
+    groups:
+      terraform:
+        patterns:
+          - "github.com/hashicorp/*"
+      gomod:
+        patterns:
+          - "*"
+        exclude-patterns:
+          - "github.com/hashicorp/*"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    labels:
+      - bot/merge
+    commit-message:
+      prefix: "chore: "
+    groups:
+      github-actions:
+        patterns:
+          - "*"
