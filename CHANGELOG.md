@@ -2,6 +2,25 @@
 
 ## master (Unreleased)
 
+## [1.1.1](https://github.com/vincentgna/tfmigrate/compare/v1.1.0...v1.1.1) (2023-11-27)
+
+
+### Misc
+
+* bump the github-actions group with 1 update ([#16](https://github.com/vincentgna/tfmigrate/issues/16)) ([ab9183a](https://github.com/vincentgna/tfmigrate/commit/ab9183a06e578d1c60611b2ec1097f1d7ef1bf04))
+* bump the github-actions group with 1 update ([#18](https://github.com/vincentgna/tfmigrate/issues/18)) ([1cfe975](https://github.com/vincentgna/tfmigrate/commit/1cfe975971d41eb4f13a1b6daabc81fb29ff643d))
+* bump the gomod group with 1 update ([#13](https://github.com/vincentgna/tfmigrate/issues/13)) ([c052fe8](https://github.com/vincentgna/tfmigrate/commit/c052fe8072340c16049c83f7bfa2dda1deabd500))
+* bump the gomod group with 1 update ([#14](https://github.com/vincentgna/tfmigrate/issues/14)) ([deba3d6](https://github.com/vincentgna/tfmigrate/commit/deba3d617d5a57b6035ecb4f7878310fb4f21273))
+* bump the gomod group with 1 update ([#19](https://github.com/vincentgna/tfmigrate/issues/19)) ([1f32e9b](https://github.com/vincentgna/tfmigrate/commit/1f32e9b5a194adf595892d3600245b371a234058))
+* bump the gomod group with 1 update ([#20](https://github.com/vincentgna/tfmigrate/issues/20)) ([182a124](https://github.com/vincentgna/tfmigrate/commit/182a1248a45bd99cb2a4c93426e1a09c72d08f3e))
+* bump the gomod group with 1 update ([#8](https://github.com/vincentgna/tfmigrate/issues/8)) ([becc879](https://github.com/vincentgna/tfmigrate/commit/becc879397e00879188ca777e784ec58cf1b0fa7))
+* bump the gomod group with 2 updates ([#11](https://github.com/vincentgna/tfmigrate/issues/11)) ([2210164](https://github.com/vincentgna/tfmigrate/commit/22101642f0ff7b312ae51ef5b33ec885b2a845f7))
+* bump the gomod group with 2 updates ([#15](https://github.com/vincentgna/tfmigrate/issues/15)) ([fb41f23](https://github.com/vincentgna/tfmigrate/commit/fb41f230bd351759b7f591d7f295f3a9c77aa0e6))
+* bump the gomod group with 2 updates ([#17](https://github.com/vincentgna/tfmigrate/issues/17)) ([aee39f5](https://github.com/vincentgna/tfmigrate/commit/aee39f53344ca57ec38f235ea86d0ea3c9516e43))
+* bump the terraform group with 1 update ([#10](https://github.com/vincentgna/tfmigrate/issues/10)) ([2fa346b](https://github.com/vincentgna/tfmigrate/commit/2fa346b8d0ab22c5157c34a46b9a80948ba37e96))
+* bump the terraform group with 1 update ([#12](https://github.com/vincentgna/tfmigrate/issues/12)) ([83c8e47](https://github.com/vincentgna/tfmigrate/commit/83c8e47172aa14bf9d8faf5ca4ede86f9bc0a277))
+* bump the terraform group with 1 update ([#7](https://github.com/vincentgna/tfmigrate/issues/7)) ([4ed8a6a](https://github.com/vincentgna/tfmigrate/commit/4ed8a6abd14fe67408cdc76cb8f25074c8ff44b6))
+
 ## [1.1.0](https://github.com/vincentgna/tfmigrate/compare/v1.0.0...v1.1.0) (2023-10-03)
 
 
