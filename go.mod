@@ -3,8 +3,8 @@ module github.com/minamijoyo/tfmigrate
 go 1.21
 
 require (
-	cloud.google.com/go/storage v1.35.1
-	github.com/aws/aws-sdk-go v1.49.0
+	cloud.google.com/go/storage v1.36.0
+	github.com/aws/aws-sdk-go v1.49.5
 	github.com/davecgh/go-spew v1.1.1
 	github.com/google/go-cmp v0.6.0
 	github.com/hashicorp/aws-sdk-go-base v1.1.0
