@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	cloud.google.com/go/storage v1.40.0
-	github.com/aws/aws-sdk-go v1.51.12
+	github.com/aws/aws-sdk-go v1.51.17
 	github.com/davecgh/go-spew v1.1.1
 	github.com/google/go-cmp v0.6.0
 	github.com/hashicorp/aws-sdk-go-base v1.1.0
